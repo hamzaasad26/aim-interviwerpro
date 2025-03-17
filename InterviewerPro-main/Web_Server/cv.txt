@@ -1,0 +1,49 @@
+John Doe
+Email: john.doe@example.com
+Phone: (123) 456-7890
+LinkedIn: linkedin.com/in/johndoe
+GitHub: github.com/johndoe
+
+Education
+
+Bachelor of Science in Artificial Intelligence
+XYZ University, City
+Expected Graduation: May 2025
+GPA: 3.4
+
+Experience
+
+AI Intern
+AIM Lab, City, State
+June 2023 - Present
+- Worked on the AI Interviewer project, developing algorithms to analyze interview responses.
+- Generated datasets containing questions, answers, and their politeness, frankness, and rudeness ratings.
+- Developed Python scripts for data analysis and follow-up question generation based on CV inputs.
+
+Research Assistant
+XYZ University, City, State
+January 2023 - May 2023
+- Assisted in research on machine learning algorithms for natural language processing.
+- Conducted experiments and analyzed data to improve model accuracy.
+
+Skills
+
+- Programming Languages: Python, Java, C++
+- Machine Learning: Scikit-learn, TensorFlow, Keras
+- Data Analysis: Pandas, NumPy, Matplotlib
+- Natural Language Processing: NLTK, spaCy
+- Tools: Git, Jupyter Notebook, VS Code
+
+Projects
+
+AI Interviewer
+- Developed an AI system to simulate interview scenarios and analyze responses for factuality and seriousness.
+- Implemented functionality to generate follow-up questions based on user responses and CV data.
+
+Politeness and Rudeness Classification
+- Created a dataset and trained a model to classify text based on politeness, frankness, and rudeness.
+
+Certifications
+
+- Certified Python Programmer
+- Machine Learning Specialist

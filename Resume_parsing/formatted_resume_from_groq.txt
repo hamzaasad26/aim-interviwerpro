@@ -1,0 +1,67 @@
+Here is the formatted output:
+
+**Personal Information**
+* Name: Muhammad Mobeen
+* Email: muhammad.mobeen100@gmail.com
+* Phone: (+92)-311-8507587
+* LinkedIn: mobeen0
+* GitHub: Mobeen0
+
+**Education**
+* Degree: B.S. in Computer Science
+* University: FAST National University of Computer & Emerging Sciences, Islamabad, Pakistan
+* Graduation Date: May 2025
+* GPA: 3.48/4.00
+* Courses: Data Structures, Database Systems, Design & Analysis of Algorithms, Object-Oriented Programming, Software Design & Analysis, Artificial Intelligence.
+
+**Experience**
+* Job Title: Team Lead
+* Company: AIM Lab
+* Location: Islamabad, Pakistan
+* Dates: May 2024 – July 2024
+* Responsibilities:
+	+ As a junior year student co-lead a team of 5 sophomores in a research project to detect fundamental human emotions through video and speech.
+	+ Integrated RAVDESS and SURREY audio datasets to train custom CNN Models from scratch which achieved 90% accuracy on test data.
+	+ Implemented Live user audio detection and emotion feedback system utilizing the trained model.
+	+ Mapped the basic detected emotions to soft skills such as openness, extrovertness and empathy.
+
+* Job Title: Software Engineer Intern
+* Company: KK Solutions
+* Location: Islamabad, Pakistan
+* Dates: May 2023 – July 2023
+* Responsibilities:
+	+ Developed responsive web pages using HTML, CSS, and JavaScript, enhancing user experience and accessibility.
+	+ Built and integrated backend services and RESTful APIs to support non-static content and data management, improving application functionality.
+	+ Employed React JS components and hooks to create interactive and efficient frontend applications, boosting performance and maintainability.
+
+**Skills**
+* Programming Languages: Python, JavaScript, Java, C++, SQL
+* Frameworks: TensorFlow, Scikit-learn, Pandas, Numpy, Ccipy, Flask, React, Node js
+* Tools: Git, Visual Studio Code, Anaconda, Jupyter Notebook
+* Databases: MySQL, MongoDB, Oracle, Microsoft SQL Server, PostgreSQL
+
+**Projects**
+* Project Name: Choosedle
+* Description:
+	+ Designed and deployed a Full Stack application solution for wordle inspired games focusing on different themes such as words, songs, movies and TV shows.
+	+ Utilized popular API such as the Spotify API and Words API for daily queries of random songs and words.
+	+ Cached daily results on mongodb cloud database resulting in only 2 API requests per day, improving site responsiveness by 80%.
+
+* Project Name: MHH Housing
+* Description:
+	+ Designed a web-based solution with the MERN stack, facilitating efficient home transactions and management in a housing community; optimized user experience and retention through intuitive design and functionality.
+	+ Deployed online utility bill payment and maintenance, reducing in-person interactions by 50% and boosting efficiency.
+	+ Implemented the Model-View-Controller (MVC) design pattern, to ensure efficient and maintainable codebase living up to industry standards.
+
+**Certifications**
+* Crash Course on Python (2022)
+* Using Python to interact with OS (2023)
+* Version Control with Git and Github (2023)
+* Introduction to Data Science in Python (2023)
+* Applied Plotting and Charting with Python (2023)
+
+**Extra-Curricular Activities**
+* Teaching Assistant for [CS-2001] Data Structures (‘A’) and [CS-2009] Design & Analysis of Algorithms (‘A+’)
+* Winner NUST Science Bee X Speed Programming
+* Winner AIRTECH ‘24 DataQuest
+* Dean's List

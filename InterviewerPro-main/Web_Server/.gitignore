@@ -1,0 +1,6 @@
+.env
+nlpCheck.py
+.vscode/
+__pycache__/
+venv/
+SelfNormalizationModel.keras
